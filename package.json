@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MattCorrigan/Terminal-Template/issues"
   },
-  "homepage": "https://github.com/MattCorrigan/Terminal-Template#readme"
+  "homepage": "https://github.com/MattCorrigan/Terminal-Template#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
