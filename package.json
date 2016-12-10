@@ -1,0 +1,19 @@
+{
+  "name": "terminal-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattCorrigan/Terminal-Template.git"
+  },
+  "author": "Matt Corrigan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MattCorrigan/Terminal-Template/issues"
+  },
+  "homepage": "https://github.com/MattCorrigan/Terminal-Template#readme"
+}
